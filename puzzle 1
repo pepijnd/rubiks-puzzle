@@ -1,0 +1,31 @@
+    let mut pieces = vec![
+        Piece::from("GBRYGRYB"),
+        Piece::from("BGYBGRYR"),
+        Piece::from("GBYRGRBY"),
+        Piece::from("BGRBGYRY"),
+        Piece::from("YGBGRYBR"),
+
+        Piece::from("RGYGBRYB"),
+        Piece::from("RGYBRBGY"),
+        Piece::from("RGBGYRBY"),
+        Piece::from("YGBRYRGB"),
+        Piece::from("YRBGYGRB"),
+
+        Piece::from("RBGRBYGY"),
+        Piece::from("BRGYBYRG"),
+        Piece::from("RYGBRBYG"),
+        Piece::from("RYBYGRBG"),
+        Piece::from("GYBRGRYB"),
+
+        Piece::from("YBGRYGRB"),
+        Piece::from("YBRYBGRG"),
+        Piece::from("BRGYBGYR"),
+        Piece::from("RGBYRBYG"),
+        Piece::from("RGYRGBYB"),
+        
+        Piece::from("GYBRGBRY"),
+        Piece::from("GBYRGYRB"),
+        Piece::from("GBRGBYRY"),
+        Piece::from("BRYGBYGR"),
+        Piece::from("BGYRBRGY")
+    ];
